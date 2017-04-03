@@ -4,6 +4,8 @@
 * [David Silver's Reinforcement Learning Lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 * [UC Berkeley Intro to AI](http://ai.berkeley.edu/home.html)
 
+![lander](lander.gif)
+
 # Overview
 Optimization problems are all around, especially in business operations: inventory management, routing and scheduling deliveries, resource allocation etc.  Reinforcement learning is a useful technique in solving these problems autonomously.
 

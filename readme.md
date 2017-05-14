@@ -9,7 +9,7 @@
 # Overview
 Optimization problems are all around, especially in business operations: inventory management, routing and scheduling deliveries, resource allocation etc.  Reinforcement learning is a useful technique in solving these problems autonomously.
 
-In this project I used reinforcement learning to teach autonomous agents how to navigate in open environments because because it’s a great example of a dynamic problem with a complex parameter space that can’t be solved using a search algorithm.
+In this project I used reinforcement learning to teach autonomous agents how to navigate in open environments because it’s a great example of a dynamic problem with a complex parameter space that can’t be solved using a search algorithm.
 
 # Implementation
 Reinforcement learning is based on a Markov Decision Process where transition probabilities are unknown.  This solution learns a Q function by training a deep neural network and uses it to predict the right actions by constantly improving it's policy based on new observations.
